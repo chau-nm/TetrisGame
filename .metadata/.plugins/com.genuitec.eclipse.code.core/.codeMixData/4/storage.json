@@ -1,0 +1,18 @@
+{
+    "telemetry.machineId": "9b3a77b1e949cc46f4145f5bf4341ea5f5ae0607d7243f106e063d8c531f5534",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "100ea7b9a4958f2cbcdd953123a14f3f",
+                "configURIPath": "file:///e%3A/De_Thi/tkhdt/Tetris-final/Tetris-main/Tetris/.metadata/codemix.code-workspace"
+            },
+            {
+                "id": "a861bbdfdaf211f258b88e68ce2aa2c1",
+                "configURIPath": "file:///e%3A/De_Thi/tkhdt/tetris/Tetris/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#221a0f"
+}
